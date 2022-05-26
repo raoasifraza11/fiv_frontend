@@ -154,7 +154,6 @@ const useStyles = makeStyles(() => ({
 const NavBarMEA = ({ onMobileClose, openMobile }) => {
   const classes = useStyles();
   const location = useLocation();
-  const { user } = useAuth();
 
   useEffect(() => {
     if (openMobile && onMobileClose) {
