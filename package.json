@@ -106,8 +106,5 @@
     "numeral": "^2.0.6",
     "prettier": "^1.19.1",
     "typescript": "^3.9.7"
-  },
-  "rules": {
-    "no-unused-vars": "off"
   }
 }

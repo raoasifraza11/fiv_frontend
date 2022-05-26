@@ -5,8 +5,6 @@ import PropTypes from 'prop-types';
 import {
   AppBar,
   Box,
-  Button,
-  Divider,
   Toolbar,
   Hidden,
   Typography,
