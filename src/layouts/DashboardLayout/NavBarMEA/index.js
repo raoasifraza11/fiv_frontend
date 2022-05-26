@@ -18,7 +18,6 @@ import {
   PieChart as PieChartIcon,
 } from 'react-feather';
 import Logo from 'src/components/Logo';
-import useAuth from 'src/hooks/useAuth';
 import NavItem from './NavItem';
 
 const sections = [
